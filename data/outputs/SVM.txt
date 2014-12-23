@@ -1,0 +1,182 @@
+run:
+
+Results
+=====
+
+Correctly Classified Instances           5              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+K&B Relative Info Score                493.982  %
+K&B Information Score                    4.8668 bits      0.9734 bits/instance
+Class complexity | order 0               4.8668 bits      0.9734 bits/instance
+Class complexity | scheme                0      bits      0      bits/instance
+Complexity improvement     (Sf)          4.8668 bits      0.9734 bits/instance
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                5     
+
+
+Results
+=====
+
+Correctly Classified Instances           3               60      %
+Incorrectly Classified Instances         2               40      %
+Kappa statistic                          0.2857
+K&B Relative Info Score                 81.946  %
+K&B Information Score                    0.8074 bits      0.1615 bits/instance
+Class complexity | order 0               4.8668 bits      0.9734 bits/instance
+Class complexity | scheme             2148      bits    429.6    bits/instance
+Complexity improvement     (Sf)      -2143.1332 bits   -428.6266 bits/instance
+Mean absolute error                      0.4   
+Root mean squared error                  0.6325
+Relative absolute error                 82.3529 %
+Root relative squared error            128.8804 %
+Total Number of Instances                5     
+
+
+Results
+=====
+
+Correctly Classified Instances          39               78      %
+Incorrectly Classified Instances        11               22      %
+Kappa statistic                          0.56  
+K&B Relative Info Score               2800      %
+K&B Information Score                   28      bits      0.56   bits/instance
+Class complexity | order 0              50      bits      1      bits/instance
+Class complexity | scheme            11814      bits    236.28   bits/instance
+Complexity improvement     (Sf)     -11764      bits   -235.28   bits/instance
+Mean absolute error                      0.22  
+Root mean squared error                  0.469 
+Relative absolute error                 44      %
+Root relative squared error             93.8083 %
+Total Number of Instances               50     
+
+
+Results
+=====
+
+Correctly Classified Instances          31               62      %
+Incorrectly Classified Instances        19               38      %
+Kappa statistic                          0.24  
+K&B Relative Info Score               1200      %
+K&B Information Score                   12      bits      0.24   bits/instance
+Class complexity | order 0              50      bits      1      bits/instance
+Class complexity | scheme            20406      bits    408.12   bits/instance
+Complexity improvement     (Sf)     -20356      bits   -407.12   bits/instance
+Mean absolute error                      0.38  
+Root mean squared error                  0.6164
+Relative absolute error                 76      %
+Root relative squared error            123.2883 %
+Total Number of Instances               50     
+
+
+Results
+=====
+
+Correctly Classified Instances         362               72.4    %
+Incorrectly Classified Instances       138               27.6    %
+Kappa statistic                          0.448 
+K&B Relative Info Score              22400      %
+K&B Information Score                  224      bits      0.448  bits/instance
+Class complexity | order 0             500      bits      1      bits/instance
+Class complexity | scheme           148212      bits    296.424  bits/instance
+Complexity improvement     (Sf)    -147712      bits   -295.424  bits/instance
+Mean absolute error                      0.276 
+Root mean squared error                  0.5254
+Relative absolute error                 55.2    %
+Root relative squared error            105.0714 %
+Total Number of Instances              500     
+
+
+Results
+=====
+
+Correctly Classified Instances         339               67.8    %
+Incorrectly Classified Instances       161               32.2    %
+Kappa statistic                          0.356 
+K&B Relative Info Score              17800      %
+K&B Information Score                  178      bits      0.356  bits/instance
+Class complexity | order 0             500      bits      1      bits/instance
+Class complexity | scheme           172914      bits    345.828  bits/instance
+Complexity improvement     (Sf)    -172414      bits   -344.828  bits/instance
+Mean absolute error                      0.322 
+Root mean squared error                  0.5675
+Relative absolute error                 64.4    %
+Root relative squared error            113.4901 %
+Total Number of Instances              500     
+
+
+Results
+=====
+
+Correctly Classified Instances        4148               82.96   %
+Incorrectly Classified Instances       852               17.04   %
+Kappa statistic                          0.3006
+K&B Relative Info Score             181534.1171 %
+K&B Information Score                 1295.6017 bits      0.2591 bits/instance
+Class complexity | order 0            3567.2411 bits      0.7134 bits/instance
+Class complexity | scheme           915048      bits    183.0096 bits/instance
+Complexity improvement     (Sf)    -911480.7589 bits   -182.2962 bits/instance
+Mean absolute error                      0.1704
+Root mean squared error                  0.4128
+Relative absolute error                 54.0955 %
+Root relative squared error            104.0271 %
+Total Number of Instances             5000     
+
+
+Results
+=====
+
+Correctly Classified Instances        4083               81.66   %
+Incorrectly Classified Instances       917               18.34   %
+Kappa statistic                          0.2459
+K&B Relative Info Score             156911.9593 %
+K&B Information Score                 1119.235  bits      0.2238 bits/instance
+Class complexity | order 0            3565.202  bits      0.713  bits/instance
+Class complexity | scheme           984858      bits    196.9716 bits/instance
+Complexity improvement     (Sf)    -981292.798  bits   -196.2586 bits/instance
+Mean absolute error                      0.1834
+Root mean squared error                  0.4283
+Relative absolute error                 58.2675 %
+Root relative squared error            107.9641 %
+Total Number of Instances             5000     
+
+
+Results
+=====
+
+Correctly Classified Instances        5692               86.2816 %
+Incorrectly Classified Instances       905               13.7184 %
+Kappa statistic                          0.2123
+K&B Relative Info Score             213482.5549 %
+K&B Information Score                 1293.086  bits      0.196  bits/instance
+Class complexity | order 0            3994.0983 bits      0.6054 bits/instance
+Class complexity | scheme           971970      bits    147.3352 bits/instance
+Complexity improvement     (Sf)    -967975.9017 bits   -146.7297 bits/instance
+Mean absolute error                      0.1372
+Root mean squared error                  0.3704
+Relative absolute error                 54.3048 %
+Root relative squared error            104.2314 %
+Total Number of Instances             6597     
+
+
+Results
+=====
+
+Correctly Classified Instances        5675               86.0109 %
+Incorrectly Classified Instances       923               13.9891 %
+Kappa statistic                          0.1798
+K&B Relative Info Score             205115.5714 %
+K&B Information Score                 1243.0734 bits      0.1884 bits/instance
+Class complexity | order 0            3996.8515 bits      0.6058 bits/instance
+Class complexity | scheme           991302      bits    150.2428 bits/instance
+Complexity improvement     (Sf)    -987305.1485 bits   -149.637  bits/instance
+Mean absolute error                      0.1399
+Root mean squared error                  0.374 
+Relative absolute error                 55.3367 %
+Root relative squared error            105.2171 %
+Total Number of Instances             6598     
+
+BUILD SUCCESSFUL (total time: 3 minutes 10 seconds)
